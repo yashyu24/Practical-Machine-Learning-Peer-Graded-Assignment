@@ -3,8 +3,8 @@ title: "Prediction Assignment Writeup"
 author: "Yaduttam Ganeriwala"
 date: "July 23, 2021"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ### Objective
